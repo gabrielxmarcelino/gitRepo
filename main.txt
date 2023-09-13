@@ -1,1 +1,0 @@
-Arquivo inicial referente a primeira aula focada na prática de git em conjunto com o GitHub
